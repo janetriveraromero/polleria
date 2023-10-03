@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Oct 2023 21:14:43 at https://www.tori.pe/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://www.tori.pe/ -O1 "C:\Mis lugares Web\proyectopolleria" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:21:51	Error: 	Exit requested by shell or user
+21:21:52	Warning: 	File not added due to mirror cancel: https://images.squarespace-cdn.com/content/604f63fbcbfeea1a501c8b6b/1654644208674-INIUBFAM6K9OMUEKYS91/detalle+ajita.jpg?format=1500w&content-type=image%2Fjpeg
+21:21:53	Warning: 	File not added due to mirror cancel: https://images.squarespace-cdn.com/content/604f63fbcbfeea1a501c8b6b/1654644208674-INIUBFAM6K9OMUEKYS91/detalle+ajita.jpg?format=1500w&content-type=image%2Fjpeg
+21:21:53	Error: 	"mirror stopped by user" (-1) at link https://images.squarespace-cdn.com/content/604f63fbcbfeea1a501c8b6b/1654644208674-INIUBFAM6K9OMUEKYS91/detalle+ajita.jpg?format=1500w&content-type=image%2Fjpeg (from https://www.tori.pe/carta-delivery)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 10 seconds : 67 links scanned, 65 files written (38586150 bytes overall) [24656702 bytes received at 57341 bytes/sec], 17874447 bytes transferred using HTTP compression in 27 files, ratio 21%, 1.8 requests per connection
+(2 errors, 2 warnings, 0 messages)

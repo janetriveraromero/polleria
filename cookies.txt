@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.tori.pe	TRUE	/	FALSE	1999999999	crumb	BUVpzX97i+qSYjQ0NzcwOTg2ODQ3YTU3YmQwN2Y2NGZmYjU0YmIw
+
